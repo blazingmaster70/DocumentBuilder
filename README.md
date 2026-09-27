@@ -1,37 +1,41 @@
 # DocumentBuilder
 
-DocumentBuilder is an extremely simple, open-source document editor designed for quickly creating and formatting documents.
+DocumentBuilder is an extremely simple and lightweight document editor for creating and formatting documents.
+
+It provides a clean white interface with the essential tools for writing, formatting, saving, printing, and exporting documents.
 
 ## Features
 
-* Create documents with **big, medium, or small text**
-* Make text **bold**
-* Make text *italic*
-* Make text <u>underlined</u>
-* Make text ~~strikethrough~~
-* **New** button for creating a new document
-* **Open** button for opening documents
-* **Save** button for saving documents
-* **Save as PDF** support
-* **Print** support
-* Clean and simple **white user interface**
+* **New** — Create a new document
+* **Open** — Open an existing document
+* **Save** — Save your current document
+* **Save as PDF** — Export your document as a PDF
+* **Print** — Print your document
+* **Bold** — Make text bold
+* **Italic** — Make text italic
+* **Underline** — Underline text
+* **Strikethrough** — Add a strikethrough to text
+* **Normal** — Use normal-sized text
+* **Medium** — Use medium-sized text
+* **Big** — Use large text
+* Clean **white user interface**
+* Simple rich-text editing
 * Lightweight and easy to use
-* Open source
 
-## Simple by Design
+## Interface
 
-DocumentBuilder focuses on the basics. It doesn't try to be a complicated word processor with hundreds of features. Instead, it provides the essential tools needed to quickly write and format documents.
+DocumentBuilder is designed to stay out of your way. The toolbar contains the main document controls and formatting options, while the large white editing area provides a simple space for writing.
+
+## Open Source
+
+DocumentBuilder is completely open source. You can view, modify, and contribute to the project.
 
 ## License
 
-DocumentBuilder is open source and released under the **MIT License**.
+DocumentBuilder is released under the **MIT License**.
 
-This means you are free to use, modify, distribute, and build upon the software, subject to the terms of the MIT License.
-
-## Contributing
-
-Contributions are welcome! You can fork the project, make your changes, and submit a pull request.
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the conditions of the MIT License.
 
 ## Project Status
 
-DocumentBuilder is a simple document editor focused on providing an easy and straightforward writing experience.
+DocumentBuilder is an extremely simple document editor focused on providing the basic tools needed to create and format documents without unnecessary complexity.
